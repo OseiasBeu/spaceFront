@@ -47,11 +47,15 @@
 }
 
 #problema:hover {
-    border: 1px solid rgb(68, 66, 66);
+    /* border: 1px solid rgb(68, 66, 66); */
     text-transform: uppercase;
 }
 
 #solucao:hover {
-    border: 1px solid rgb(68, 66, 66);
+    /* border: 1px solid rgb(68, 66, 66); */
     text-transform: uppercase;
+}
+
+.planoDeFundo a {
+    text-decoration: none;
 }

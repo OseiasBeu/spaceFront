@@ -9,6 +9,12 @@ section {
     width: 100%;
 }
 
+li .btn {
+    text-transform: uppercase;
+    font-weight: bold;
+    /* text-decoration: bold; */
+}
+
 .logoTipo {
     position: relative;
     width: 500px;
@@ -38,4 +44,33 @@ section {
     padding: 0;
     font-size: 30px;
     width: 500px;
+}
+
+
+/* #Especial{
+
+} */
+
+#geral {
+    position: relative;
+    /* border: 2px solid red; */
+    width: 800px;
+    left: 250px;
+}
+
+#fot {
+    display: inline;
+    /* justify-content: center; */
+    /* height: 500px; */
+}
+
+#Especial {
+    width: 400px;
+}
+
+#iconeredes {
+    position: relative;
+    /* float: right; */
+    top: -150px;
+    left: 600px;
 }

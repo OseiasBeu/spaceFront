@@ -22,7 +22,7 @@ header {
 }
 
 header img {
-    top: -40px;
+    top: -50px;
     width: 50px;
     position: relative;
 }
@@ -41,7 +41,7 @@ figcaption p {
     color: whitesmoke;
     width: 450px;
     font-size: 25px;
-    margin-top: -80px;
+    margin-top: -90px;
     margin-left: 55px;
 }
 
@@ -94,8 +94,8 @@ footer {
     bottom: 0px;
     height: 20%;
     width: 100%;
-    padding-top: 10px;
     display: flex;
+    padding-top: 10px;
     justify-content: space-evenly;
 }
 
